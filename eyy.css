@@ -1,0 +1,21 @@
+*{
+	padding:0;
+	margin:0;
+	font-family:sans-serif;
+}
+.bg{
+	justify-content:center;
+	align-items:center;
+	text-align:center;
+	top:100%;
+	transform:translateY(400px);
+}
+.bg textarea{
+	font-size:30px;
+}
+.bg button{
+	font-size:15px;
+	top:100%;
+	transform:translateY(5px);
+	margin-right:10px;
+}
